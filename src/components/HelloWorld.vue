@@ -1,6 +1,7 @@
 <template>
   <div class="hello">
     Let's try something nvue!
+    <a href="../resultspage/index2.html">Link to next page</a>
   </div>
    
 </template>
